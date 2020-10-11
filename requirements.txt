@@ -1,0 +1,15 @@
+asgiref==3.3.0
+certifi==2020.6.20
+chardet==3.0.4
+Django==3.0.6
+django-cors-headers==3.3.0
+django-filter==2.2.0
+djangorestframework==3.11.0
+environs==8.0.0
+idna==2.10
+marshmallow==3.8.0
+python-dotenv==0.13.0
+pytz==2020.1
+requests==2.24.0
+sqlparse==0.4.1
+urllib3==1.25.10
